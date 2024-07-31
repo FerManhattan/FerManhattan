@@ -26,8 +26,10 @@ I am passionate about everything data! From Data Analytics and Data Science to D
 
 ### Projects and Documentation
 
+- [Project Portfolio]: https://github.com/FerManhattan/DataTales/blob/main/Project_Portfolio_Fernando_Tapia.pdf
+
 ### How to View
-Click the links above to view or download the documents directly. 
+Click the links above to view the documents directly. 
 
 ---
 Feel free to explore my repository and get in touch if you'd like to discuss anything data-related!
